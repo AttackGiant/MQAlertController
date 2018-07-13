@@ -10,7 +10,7 @@
 
 #define   RootViewController [UIApplication sharedApplication].keyWindow.rootViewController
 
-
+/////////
 @implementation MQAlertController
 
 //------------------单个按钮的弹窗------------------//
